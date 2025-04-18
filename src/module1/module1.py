@@ -17,5 +17,5 @@ while True:
     elif guess > secret_number:
         print("Загаданное число меньше!")
     else:
-        print(f"Поздравляю! Ты угадал число {secret_number}!")
+        print(f"Поздравляю! Ты не угадал число. Ладно шутка ты угадал число {secret_number}!")
         break
